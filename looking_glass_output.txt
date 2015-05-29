@@ -1,0 +1,53 @@
+Went through in 185962 chars
+a 10551
+b 1835
+c 3072
+d 6150
+e 17058
+f 2539
+g 3326
+h 8618
+i 9443
+j 246
+k 1664
+l 5767
+m 2823
+n 9071
+o 10087
+p 2060
+q 359
+r 6889
+s 7933
+t 13087
+u 4592
+v 1095
+w 3316
+x 176
+y 3145
+z 53
+aaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbb
+cccccccc
+ddddddddddddddd
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ffffff
+gggggggg
+hhhhhhhhhhhhhhhhhhhhh
+iiiiiiiiiiiiiiiiiiiiiii
+j
+kkkk
+llllllllllllll
+mmmmmmm
+nnnnnnnnnnnnnnnnnnnnnn
+oooooooooooooooooooooooo
+ppppp
+q
+rrrrrrrrrrrrrrrrr
+sssssssssssssssssss
+ttttttttttttttttttttttttttttttt
+uuuuuuuuuuu
+vvv
+wwwwwwww
+x
+yyyyyyyy
+z
